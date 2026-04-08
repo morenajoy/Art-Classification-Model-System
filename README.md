@@ -1,3 +1,8 @@
 ﻿# Art-Classification-Model-System
 
-thesis
+thesis system
+
+Group:
+Gumiran, Rya Faye
+Hernandez, Nicole Joy M.
+Johansson, Nadia Victoria Johansson
